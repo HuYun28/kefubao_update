@@ -20,7 +20,7 @@
                 </ul>
             ]]></description>
             
-            <enclosure url="https://github.com/你的用户名/好用便签-updates/releases/download/1.0.0/好用便签-1.0.0.zip"
+            <enclosure url="https://github.com/HuYun28/kefubao_update/blob/main/%E5%AE%A2%E6%9C%8D%E5%AE%9D.zip"
                        sparkle:version="600"
                        sparkle:shortVersionString="6.0.0"
                        length="12345678"
